@@ -14,11 +14,11 @@
 
 ***𝘾𝙪𝙧𝙧𝙚𝙣𝙩 𝙨𝙩𝙖𝙩𝙪𝙨: ✅𝙎𝙩𝙖𝙗𝙡𝙚***
 
-![2](https://github.com/Iggiers/SeaOfThieves-DWMenu/assets/154644881/c27344ec-d14d-40d3-8921-471b1f48c17a)
-
 ![3](https://github.com/Iggiers/SeaOfThieves-DWMenu/assets/154644881/1db0cf81-5749-4be3-985f-90ae6d1e2d30)
 
 # ⚙️𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
+
+![2](https://github.com/Iggiers/SeaOfThieves-DWMenu/assets/154644881/c27344ec-d14d-40d3-8921-471b1f48c17a)
 
 ***🌟HWID Changer INCLUDED!***
 
